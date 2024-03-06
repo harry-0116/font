@@ -1,6 +1,9 @@
+<style>
+    @import url("https://cdn.jsdelivr.net/gh/harry-0116/font@main/fetch.css");
+
 @font-face {
     font-family: 'KoreanHHM';
-    src: url('https://cdn.jsdelivr.net/gh/harry-0116/font@main/fontkr.woff2') format('woff2');
+    src: url('fontkr.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
